@@ -1,9 +1,28 @@
 # Doll-Browser-Chatbot
-You can now chat with Doll from the Youtube indie series "Murder Drones" on your browser! ...for now...
+You can now chat with Doll from the Youtube indie series "Murder Drones" on your browser!
 
 # Installation
-Windows: https://drive.google.com/drive/folders/1oVauVZZaSFx8c5zkf9PkUNuLOJdewEz8?usp=sharing
+Download from here: https://drive.google.com/drive/folders/1oVauVZZaSFx8c5zkf9PkUNuLOJdewEz8?usp=sharing
 
-Mac: Just wait a million years, you little shit!
+# FAQs
+Q: Why Doll?
 
-Linux: Coming WAY sooner than stupid Mac. Just wait a month or something.
+A: Because she's my favorite character in Murder Drones.
+
+---
+
+Q: Will other Murder Drones characters be coming?
+
+A: Maybe. Maybe not. Depends on my mood.
+
+---
+
+Q: Will this become an app instead of a website on a local server?
+
+A: Yes, this idea is currently in the works and will take a long time to make. The app will contain: an expressive avatar overlay (much like Smug AI), a system monitor with warnings, and an expressive voice so she can roast the shit of your specs and attitude.
+
+---
+
+Q: Is this project coming to Mobile or MacOS?
+
+A: Android: Yes, but it will take some time! IOS and MacOS: No, F*ck Apple!
