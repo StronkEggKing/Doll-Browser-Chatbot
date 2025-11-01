@@ -35,4 +35,4 @@ A: Yes, this idea is currently in the works and will take a long time to make. T
 
 Q: Will this project come to Mobile or MacOS?
 
-A: Android: Yes, but it will take some time. IOS and MacOS: No, F*ck Apple!
+A: For mobile, just download Termux and the Linux version of the Doll AI then run server.js in Termux. For MacOS, No, because f*ck Apple.
