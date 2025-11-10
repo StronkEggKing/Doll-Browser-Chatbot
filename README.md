@@ -4,6 +4,30 @@ You can now chat with Doll from the Youtube indie series "Murder Drones" on your
 ## Installation
 Download from [this Google Drive folder](https://drive.google.com/drive/folders/1oVauVZZaSFx8c5zkf9PkUNuLOJdewEz8?usp=drive_link)
 
+## How to run
+
+### Windows 
+1) Download the Windows version and unzip it.
+
+2) Run the exe file.
+
+3) Do **NOT** grant permissions to the program. It doesn't need permissions.
+
+### Linux 
+1) Download the Linux version and unzip it.
+
+2) Run the executable in the dist folder.
+
+> [!NOTE]
+> If it doesn't open, run the executable in the terminal via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.)
+
+### Mobile
+1) Download Termux
+
+2) Download the Linux version
+
+3) Run the executable in [Termux](https://github.com/termux/termux-app) via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.). 
+
 ## FAQs
 > Q: Why Doll?
 
@@ -14,18 +38,6 @@ Download from [this Google Drive folder](https://drive.google.com/drive/folders/
 > Q: Will other Murder Drones characters be coming?
 
 > A: Maybe. Maybe not. Depends on my mood.
-
----
-
-> Q: How do I run this projects?
-
-> A: 
->
->  Windows: Open the exe file and don't grant permissions, because it doesn't need it.
->
->  Linux: Open the executable in the dist folder. If you're using Hyprland, run the executable in the terminal via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.)
->
->  Android Mobile: Download Termux and the Linux version then run the executable in [Termux](https://github.com/termux/termux-app) via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.). 
 
 ---
 
