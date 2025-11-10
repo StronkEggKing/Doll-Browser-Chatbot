@@ -2,7 +2,7 @@
 You can now chat with Doll from the Youtube indie series "Murder Drones" on your browser!
 
 ## Installation
-Download from here: https://drive.google.com/drive/folders/1oVauVZZaSFx8c5zkf9PkUNuLOJdewEz8?usp=drive_link
+Download from [this Google Drive folder](https://drive.google.com/drive/folders/1oVauVZZaSFx8c5zkf9PkUNuLOJdewEz8?usp=drive_link)
 
 ## FAQs
 > Q: Why Doll?
@@ -25,7 +25,7 @@ A:
 
   Linux: Open the executable in the dist folder. If you're using Hyprland, run the executable in the terminal via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.)
 
-  Android Mobile: Download Termux and the Linux version then run the executable in [Termux]{https://github.com/termux/termux-app} via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.). 
+  Android Mobile: Download Termux and the Linux version then run the executable in [Termux](https://github.com/termux/termux-app) via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.). 
 
 ---
 
