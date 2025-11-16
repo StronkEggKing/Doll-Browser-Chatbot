@@ -1,32 +1,12 @@
 # Doll-Browser-Chatbot
 You can now chat with Doll from the Youtube indie series "Murder Drones" on your browser!
 
-## Installation
-Download from [this Google Drive folder](https://drive.google.com/drive/folders/1oVauVZZaSFx8c5zkf9PkUNuLOJdewEz8?usp=drive_link)
+## How to run on Mobile
+1) Download [Termux](https://github.com/termux/termux-app)
 
-## How to run
+2) Download the [Linux version](https://github.com/StronkEggKing/Doll-Browser-Chatbot/releases/tag/linux-v1)
 
-### Windows 
-1) Download the Windows version and unzip it.
-
-2) Run the exe file.
-
-3) Do **NOT** grant permissions to the program. It doesn't need permissions.
-
-### Linux 
-1) Download the Linux version and unzip it.
-
-2) Run the executable in the dist folder.
-
-> [!NOTE]
-> If it doesn't open, run the executable in the terminal via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.)
-
-### Mobile
-1) Download Termux
-
-2) Download the Linux version
-
-3) Run the executable in [Termux](https://github.com/termux/termux-app) via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.). 
+3) Run the executable in Termux via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.). 
 
 ## FAQs
 > Q: Why Doll?
