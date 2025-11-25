@@ -6,7 +6,9 @@ You can now chat with Doll from the Youtube indie series "Murder Drones" on your
 
 2) Download the [Linux version](https://github.com/StronkEggKing/Doll-Browser-Chatbot/releases/tag/linux-v1)
 
-3) Run the executable in Termux via the command `./path/to/file` (replace "path/to/file" with the actual path of the executable.). 
+3) Install the "node" package via `pkg install node`
+
+4) Run the executable in Termux via the command `node path/to/server.js`. 
 
 ## FAQs
 > Q: Why Doll?
