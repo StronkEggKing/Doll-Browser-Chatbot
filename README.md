@@ -1,13 +1,21 @@
 # Doll-Browser-Chatbot
 You can now chat with Doll from the Youtube indie series "Murder Drones" on your browser!
 
-## How to run on Mobile
+## Installation process
+You will see a detailed installation steps for each platform
+
+### Windows and Linux
+1) Download the version of your OS from [Releases](https://github.com/StronkEggKing/Doll-Browser-Chatbot/releases/)
+2) Get the API keys:
+   * For your AI API, get it from [OpenRouter](https://openrouter.ai/).
+   * For your voice API, get it from [ElevenLabs](https://elevenlabs.io/)
+3) Paste your API keys in their corresponding places in the file `.env` then save.
+4) Run the executable to launch this monstrosity.
+
+### Mobile
 1) Download [Termux](https://github.com/termux/termux-app)
-
 2) Download the [Linux version](https://github.com/StronkEggKing/Doll-Browser-Chatbot/releases/tag/linux-v1)
-
 3) Install the "node" package via `pkg install node`
-
 4) Run the executable in Termux via the command `node path/to/server.js`. 
 
 ## FAQs
