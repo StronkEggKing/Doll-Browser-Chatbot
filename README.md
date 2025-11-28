@@ -1,5 +1,5 @@
 # Doll-Browser-Chatbot
-You can now chat with Doll from the Youtube indie series "Murder Drones" on your browser!
+You can now chat with Doll from the Youtube indie series "Murder Drones" on your browser! It's not my proudest work (mainly because I used JavaScript) and I'm currently making an enhanced version: [Doll AI 2.0](https://github.com/StronkEggKing/Doll-AI-2.0)
 
 ## Installation process
 You will see a detailed installation steps for each platform
