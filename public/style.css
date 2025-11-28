@@ -1,0 +1,43 @@
+body {
+  background: black;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  padding-top: 50px;
+}
+#face {
+  width: 300px;
+  height: auto;
+  transition: 0.2s;
+}
+#loading {
+  font-size: 24px;
+  color: red;
+  margin: 10px 0;
+}
+#subtitles {
+  font-size: 18px;
+  margin: 10px;
+  padding: 8px;
+  border: 1px solid white;
+  background: rgba(0,0,0,0.5);
+}
+input {
+  padding: 8px;
+  width: 60%;
+}
+button {
+  padding: 8px;
+  background: crimson;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+button:disabled {
+  background: gray;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+.hidden {
+  display: none;
+}
