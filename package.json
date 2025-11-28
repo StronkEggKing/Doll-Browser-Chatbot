@@ -1,0 +1,22 @@
+{
+  "name": "dollai",
+  "version": "1.0.0",
+  "bin": "server.js",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "node-fetch": "^2.7.0",
+    "open": "^8.4.2"
+  },
+  "pkg": {
+    "assets": [
+      "public/**/*",
+      ".env"
+    ]
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
